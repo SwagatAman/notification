@@ -12,7 +12,7 @@ A simple notification service to send notifications (Email, SMS, In-App) to user
 ## Setup Instructions
 
 ### Prerequisites
-- Java 17+
+- Java 17 or higher
 - Maven
 
 ### Build & Run
